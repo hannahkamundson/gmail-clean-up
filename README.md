@@ -1,2 +1,2 @@
 # gmail-clean-up
-A UI to quickly clean up Gmail
+A cli app to quickly clean up Gmail
